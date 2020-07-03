@@ -1,0 +1,13 @@
+C:\Users\MacBook Air\source\repos\combinationsPermutations\bin\Debug\netcoreapp3.1\combinationsPermutations.exe
+C:\Users\MacBook Air\source\repos\combinationsPermutations\bin\Debug\netcoreapp3.1\combinationsPermutations.deps.json
+C:\Users\MacBook Air\source\repos\combinationsPermutations\bin\Debug\netcoreapp3.1\combinationsPermutations.runtimeconfig.json
+C:\Users\MacBook Air\source\repos\combinationsPermutations\bin\Debug\netcoreapp3.1\combinationsPermutations.runtimeconfig.dev.json
+C:\Users\MacBook Air\source\repos\combinationsPermutations\bin\Debug\netcoreapp3.1\combinationsPermutations.dll
+C:\Users\MacBook Air\source\repos\combinationsPermutations\bin\Debug\netcoreapp3.1\combinationsPermutations.pdb
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.csprojAssemblyReference.cache
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.AssemblyInfoInputs.cache
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.AssemblyInfo.cs
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.dll
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.pdb
+C:\Users\MacBook Air\source\repos\combinationsPermutations\obj\Debug\netcoreapp3.1\combinationsPermutations.genruntimeconfig.cache
